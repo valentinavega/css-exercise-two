@@ -1,6 +1,8 @@
 body {
-  background-color: #ff0000;
+  background-color: #ffe2d0;
   color: #0000FF;
+  font-size: 16px;
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
 
 nav {
@@ -8,6 +10,29 @@ nav {
   float: left;
   position: fixed;
   width: 100%;
+}
+
+figcaption {
+  color: #232323;
+  font-size: 100%;
+}
+
+h1{
+  color: #232323;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+h3{
+  color: #232323;
+  font-size: 150%;
+}
+
+p{
+  color: #232323;
+  font-size: 150%;
+  text-align:left;
+  line-height: 2em;
 }
 
 .logo {
